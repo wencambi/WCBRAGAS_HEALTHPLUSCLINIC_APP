@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WCBRAGAS_HEALTHPLUSCLINIC_APP</string>
+    <string name="nextButton">Continue</string>
+    <string name="txtusername">Username</string>
+    <string name="txtpassword">Password</string>
+    <string name="loginbutton">Login</string>
+    <string name="registerbutton">Register Account</string>
+    <string name="password">Password:</string>
+    <string name="username">Username:</string>
+</resources>
